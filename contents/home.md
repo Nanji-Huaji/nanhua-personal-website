@@ -1,6 +1,6 @@
 [![Nanji-Huaji](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/Nanji-Huaji)
 
-I'm an undergraduate student majoring in Communication Engineering at Beijing University of Posts and Telecommunications.
+I'm an undergraduate student majoring in Electronic Information Engineeringg at Beijing University of Posts and Telecommunications.
 
 #### Email  
 <code>Tian_Tianyi@bupt.edu.cn</code>  

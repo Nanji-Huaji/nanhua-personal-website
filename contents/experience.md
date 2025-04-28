@@ -1,21 +1,18 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **Pervasive Intelligence Lab**  
+**January 2024 – Sept 2024 | Department of Computing, the Hong Kong Polytechnic University**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+Worked as an internship
 
 #### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
-
+- Contributed to the writing of a survey, conducted research on existing large models, and gained a fundamental understanding of AI technologies.
+- Practiced MCTS-related techniques and implemented a multi-model joint reasoning framework based on Tree-of-Thoughts, achieving improved reasoning capabilities in the 24-point task.
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+### **Artificial Intelligence for Affective Interaction**  
+**Sept 2024 – Present | School of Artificial Intelligence, Beijing University of Posts and Telecommunications**  
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+Worked as an internship
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+#### Key Contributions:  
+- Participated in research on text controllable generation based on Sparse Autoencoder (SAE), using SAE to map text embeddings into a sparse latent space to achieve style disentanglement, enabling fine-grained control over text generation.
+- Engaged in affective computing tasks, researched and attempted to reproduce stance detection frameworks.
