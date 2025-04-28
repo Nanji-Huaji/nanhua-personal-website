@@ -1,20 +1,14 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![Nanji-Huaji](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/Nanji-Huaji)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm an undergraduate student majoring in Communication Engineering at Beijing University of Posts and Telecommunications.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>Tian_Tianyi@bupt.edu.cn</code>  
+<code>Hua_ji@outlook.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Beijing University of Posts and Telecommunications**, Majoring in Electronic Information Engineering (2023/9 ~ Present)
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Machine Learning, Agent Application, Affective Computing, LLM Inference
