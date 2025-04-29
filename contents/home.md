@@ -1,4 +1,4 @@
-[![Nanji-Huaji](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/Nanji-Huaji)
+[![Nanji-Huaji](https://img.shields.io/badge/NanjiHuaji-github-blue?logo=github)](https://github.com/Nanji-Huaji)
 
 I'm an undergraduate student majoring in Electronic Information Engineering at Beijing University of Posts and Telecommunications.
 
@@ -12,3 +12,7 @@ I'm an undergraduate student majoring in Electronic Information Engineering at B
 
 #### Research Interests  
 Machine Learning, Agent Application, Affective Computing, LLM Inference
+
+#### Tech Stack
+- Programming Languages: Python, C++, LaTeX
+- Tools: PyTorch (Still Learning), transformers
