@@ -8,6 +8,7 @@ Worked as an internship
 Contributed to the writing of a survey, conducted research on existing large models, and gained a fundamental understanding of AI technologies.
 
 Practiced MCTS-related techniques and implemented a multi-model joint reasoning framework based on Tree-of-Thoughts, achieving improved reasoning capabilities in the 24-point task.
+
 ---
 
 ### **Artificial Intelligence for Affective Interaction**  
