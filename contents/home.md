@@ -1,4 +1,4 @@
-[![Nanji-Huaji](https://img.shields.io/badge/NanjiHuaji-github-blue?logo=github)](https://github.com/Nanji-Huaji)
+<!-- [![Nanji-Huaji](https://img.shields.io/badge/NanjiHuaji-github-blue?logo=github)](https://github.com/Nanji-Huaji) -->
 
 I'm an undergraduate student majoring in Electronic Information Engineering at [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/).
 
