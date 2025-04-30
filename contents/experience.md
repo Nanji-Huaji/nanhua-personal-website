@@ -1,7 +1,7 @@
 ### **Pervasive Intelligence Lab**  
 **January 2024 – Sept 2024 | Department of Computing, the Hong Kong Polytechnic University**  
 
-Worked as an internship
+
 
 #### Key Contributions:  
 
@@ -13,7 +13,7 @@ Worked as an internship
 ### **Artificial Intelligence for Affective Interaction**  
 **Sept 2024 – Present | School of Artificial Intelligence, Beijing University of Posts and Telecommunications**  
 
-Worked as an internship
+
 
 #### Key Contributions:  
 
