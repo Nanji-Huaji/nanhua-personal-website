@@ -1,5 +1,5 @@
 ### **Pervasive Intelligence Lab**  
-**January 2024 – Sept 2024 | Department of Computing, the Hong Kong Polytechnic University**  
+**January 2024 – Present | Department of Computing, the Hong Kong Polytechnic University**  
 
 
 
