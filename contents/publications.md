@@ -12,6 +12,12 @@ Submitted to AAAI 2026
 
 #### Mask-Guided Backtrack Decoding: Enabling Self-Correction in LLM Reasoning
 
-Huijun Lian, Keqi Chen, Zekai Sun, Tianyi Tian, Ziteng He, Yingming Gao, Ya Li
+Huijun Lian, Keqi Chen, Zekai Sun, **Tianyi Tian**, Ziteng He, Yingming Gao, Ya Li
 
-Submitted to AAAI 2026
+Submitted to ICASSP 2026
+
+#### Therapeutic Generation Pipeline: Tackling Multimodal Data Constraints in Psychological Counseling
+
+Zekai Sun, Keqi Chen, **Tianyi Tian**, Huijun Lian, Yuhua Wen, Yingming Gao, Ya Li
+
+Submitted to ICASSP 2026
