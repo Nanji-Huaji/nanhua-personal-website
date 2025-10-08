@@ -14,5 +14,5 @@ I'm an undergraduate student majoring in Electronic Information Engineering at [
 Machine Learning, Agent Application, Affective Computing, LLM Inference, AI for Science, Bioinformatics
 
 #### Tech Stack
-- Programming Languages: Python (familar), Rust (learning), LaTeX (familar)
-- Tools: PyTorch (familar)
+- Programming Languages: Python (familiar), Rust (learning), LaTeX (familiar)
+- Tools: PyTorch (familiar)
